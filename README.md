@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem Tykhonenko</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">Passionate frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferragone&label=Profile%20views&color=b10eb4&style=flat-square" alt="ferragone" /> </p>
 
