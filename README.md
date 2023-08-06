@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferragone&label=Profile%20views&color=b10eb4&style=flat-square" alt="ferragone" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/artem-tykhonenko-%f0%9f%8c%90-ba2a11282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artem-tykhonenko-%f0%9f%8c%90-ba2a11282" height="30" width="40" /></a>
 <a href="https://instagram.com/peresmash_nick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peresmash_nick" height="30" width="40" /></a>
 </p>
 
