@@ -6,7 +6,7 @@
 
 <h2 align="center">Passionate frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h2>
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Social profile:</h3>
 <p align="left">
 <a href="https://instagram.com/peresmash_nick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peresmash_nick" height="30" width="40" /></a>
 </p>
