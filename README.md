@@ -1,4 +1,4 @@
-<h1 align="center">Hello world ! 🌍</h1>
+<h1 align="center">Hello world ! 🌌</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1g3zLCepvdEAzb5NxA/giphy.gif" width="300" height="200"/>
@@ -19,7 +19,7 @@
 
 🤝 Enjoy collaborating in a team and helping other developers.
 
-🐱 Responsible and with a sense of humor (I love memes).
+🎓 I am a student at a technical university.
 
 📫 How to reach me: [myupwork2023.22@gmail.com](mailto:myupwork2023.22@gmail.com)
 
