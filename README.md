@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Artem Tykhonenko</h1>
+<h1 align="center">Hello world ! 🌍</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1g3zLCepvdEAzb5NxA/giphy.gif" width="300" height="200"/>
 </div>
 
-<h3 align="center">Passionate frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h3>
+<h2 align="center">Passionate frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
