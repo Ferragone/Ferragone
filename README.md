@@ -17,7 +17,7 @@
 
 🎓 I'm a student at a technical university.
 
-📖 Continuously learning and exploring new things to broaden my skills.
+📚 Continuously learning and exploring new things to broaden my skills.
 
 🤝 Enjoy collaborating in a team and helping other developers.
 
