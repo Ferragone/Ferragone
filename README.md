@@ -15,13 +15,13 @@
 
 👩‍💻 I'm a switcher, embarking on my development journey and aspiring to become a professional in the field.
 
-🎓 I'm a student at a technical university.
+🎓 I'm a student at a technical university in Kharkiv.
 
 📚 Continuously learning and exploring new things to broaden my skills.
 
 💎 With a brilliant sense of detail and a passion for creating perfect designs.
 
-🤝 Enjoy collaborating in a team and helping other developers and desiners.
+🤝 Enjoy collaborating in a team and helping other developers and designers.
 
 📬 How to reach me: [myupwork2023.22@gmail.com](mailto:myupwork2023.22@gmail.com)
 
