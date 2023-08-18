@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/1g3zLCepvdEAzb5NxA/giphy.gif" width="300" height="200"/>
 </div>
 
-<h2 align="center">Passionate frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h2>
+<h2 align="center">Talented frontend developer from Ukraine with experience in creating interactive user interfaces using HTML, CSS, and JavaScript, as well as working with frameworks like React</h2>
 
 <h3 align="left">Social profile:</h3>
 <p align="left">
