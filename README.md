@@ -51,9 +51,9 @@
 
 &nbsp;&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferragone&theme=highcontrast" alt="ferragone" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferragone&theme=highcontrast" alt="ferragone" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferragone&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="ferragone" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferragone&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="ferragone" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferragone&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="ferragone" /></p>
 
