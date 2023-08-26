@@ -25,7 +25,7 @@
 
 📬 How to reach me: [myupwork2023.22@gmail.com](mailto:myupwork2023.22@gmail.com)
 
-### Connect with me 🖇
+### Connect with me 🔗
 <div id="social" align="left">
   <a href="https://www.linkedin.com/in/artem-tykhonenko-%F0%9F%8C%90-ba2a11282" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://t.me/peresmash_nick" target="_blank" rel="noreferrer"><img src="./telegram.png"  width="32" height="32"/></a>
