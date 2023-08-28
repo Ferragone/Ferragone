@@ -17,7 +17,7 @@
 
 🎓 I'm a student at a technical university in Kharkiv.
 
-📚 Continuously learning and exploring new things to broaden my skills.
+📚 Continuously learning and exploring new things to broaden my skills and ability.
 
 💎 With a brilliant sense of detail and a passion for creating perfect designs.
 
