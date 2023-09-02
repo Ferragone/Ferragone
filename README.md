@@ -23,7 +23,7 @@
 
 🤝 Enjoy collaborating in a team and helping other developers and designers.
 
-📬 How to write me: [myupwork2023.22@gmail.com](mailto:myupwork2023.22@gmail.com)
+📬 How to contact me: [myupwork2023.22@gmail.com](mailto:myupwork2023.22@gmail.com)
 
 ### Connect with me:
 <div id="social" align="left">
