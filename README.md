@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferragone&label=Profile%20views&color=b10eb4&style=flat-square" alt="ferragone" /> </p>
 
-👩‍💻 I'm a switcher, embarking on my development journey and aspiring to become a professional in the field.
+👩‍💻 I'm a switcher, embarking on my development journey and aspiring to become a professional in the field of Front-end.
 
 🎓 I'm a student at a technical university in Kharkiv.
 
