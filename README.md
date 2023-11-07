@@ -17,7 +17,7 @@
 
 🎓 I'm a student at a technical university in Kharkiv.
 
-💼 I work as a webflow developer.
+💼 I work as a webflow developer at Technomatix.
 
 📚 Continuously learning and exploring new things to broaden my skills and ability.
 
